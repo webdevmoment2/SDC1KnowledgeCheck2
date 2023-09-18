@@ -1,0 +1,14 @@
+C:\Users\Maura\CodeLouisville\Software Dev\SDC1KnowledgeCheck2\SDC1KC2Project\bin\Debug\net6.0\SDC1KC2Project.exe
+C:\Users\Maura\CodeLouisville\Software Dev\SDC1KnowledgeCheck2\SDC1KC2Project\bin\Debug\net6.0\SDC1KC2Project.deps.json
+C:\Users\Maura\CodeLouisville\Software Dev\SDC1KnowledgeCheck2\SDC1KC2Project\bin\Debug\net6.0\SDC1KC2Project.runtimeconfig.json
+C:\Users\Maura\CodeLouisville\Software Dev\SDC1KnowledgeCheck2\SDC1KC2Project\bin\Debug\net6.0\SDC1KC2Project.dll
+C:\Users\Maura\CodeLouisville\Software Dev\SDC1KnowledgeCheck2\SDC1KC2Project\bin\Debug\net6.0\SDC1KC2Project.pdb
+C:\Users\Maura\CodeLouisville\Software Dev\SDC1KnowledgeCheck2\SDC1KC2Project\obj\Debug\net6.0\SDC1KC2Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maura\CodeLouisville\Software Dev\SDC1KnowledgeCheck2\SDC1KC2Project\obj\Debug\net6.0\SDC1KC2Project.AssemblyInfoInputs.cache
+C:\Users\Maura\CodeLouisville\Software Dev\SDC1KnowledgeCheck2\SDC1KC2Project\obj\Debug\net6.0\SDC1KC2Project.AssemblyInfo.cs
+C:\Users\Maura\CodeLouisville\Software Dev\SDC1KnowledgeCheck2\SDC1KC2Project\obj\Debug\net6.0\SDC1KC2Project.csproj.CoreCompileInputs.cache
+C:\Users\Maura\CodeLouisville\Software Dev\SDC1KnowledgeCheck2\SDC1KC2Project\obj\Debug\net6.0\SDC1KC2Project.dll
+C:\Users\Maura\CodeLouisville\Software Dev\SDC1KnowledgeCheck2\SDC1KC2Project\obj\Debug\net6.0\refint\SDC1KC2Project.dll
+C:\Users\Maura\CodeLouisville\Software Dev\SDC1KnowledgeCheck2\SDC1KC2Project\obj\Debug\net6.0\SDC1KC2Project.pdb
+C:\Users\Maura\CodeLouisville\Software Dev\SDC1KnowledgeCheck2\SDC1KC2Project\obj\Debug\net6.0\SDC1KC2Project.genruntimeconfig.cache
+C:\Users\Maura\CodeLouisville\Software Dev\SDC1KnowledgeCheck2\SDC1KC2Project\obj\Debug\net6.0\ref\SDC1KC2Project.dll
